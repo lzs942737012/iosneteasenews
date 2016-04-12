@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  neteasenewsss
+//  neteasenewssss
 //
 //  Created by Mac on 16/4/12.
 //  Copyright © 2016年 itcast. All rights reserved.
@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"sss");
+    // Do any additional setup after loading the view, typically from a nib
 }
 
 - (void)didReceiveMemoryWarning {

@@ -1,6 +1,6 @@
 //
-//  neteasenewsssTests.m
-//  neteasenewsssTests
+//  neteasenewssssTests.m
+//  neteasenewssssTests
 //
 //  Created by Mac on 16/4/12.
 //  Copyright © 2016年 itcast. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface neteasenewsssTests : XCTestCase
+@interface neteasenewssssTests : XCTestCase
 
 @end
 
-@implementation neteasenewsssTests
+@implementation neteasenewssssTests
 
 - (void)setUp {
     [super setUp];
